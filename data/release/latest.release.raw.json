@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 588,
       "digest": "sha256:6ca6b707a86bfc729f7e420ef5222bfc8b51cb8c7c99b3364cebcd3b01df339e",
-      "download_count": 15681,
+      "download_count": 15704,
       "created_at": "2026-04-26T20:43:08Z",
       "updated_at": "2026-04-26T20:43:08Z",
       "browser_download_url": "https://github.com/homeport/dyff/releases/download/v1.12.0/checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3854083,
       "digest": "sha256:3c1bbefb44ec92675c9fc1349a102a41d2568f294fd1fd4e468dc0804944040f",
-      "download_count": 4536,
+      "download_count": 4542,
       "created_at": "2026-04-26T20:43:07Z",
       "updated_at": "2026-04-26T20:43:07Z",
       "browser_download_url": "https://github.com/homeport/dyff/releases/download/v1.12.0/dyff_1.12.0_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4098051,
       "digest": "sha256:50b43017a7474c2216694d0b5387439488a1d3c2b5eefe1674cd0e5c18bc0316",
-      "download_count": 356852,
+      "download_count": 357990,
       "created_at": "2026-04-26T20:43:07Z",
       "updated_at": "2026-04-26T20:43:07Z",
       "browser_download_url": "https://github.com/homeport/dyff/releases/download/v1.12.0/dyff_1.12.0_linux_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3708437,
       "digest": "sha256:c9710f57940306abc1e34e2bf1a1ba94e6a92c543cde4e5dfaea169ded06e832",
-      "download_count": 15918,
+      "download_count": 15936,
       "created_at": "2026-04-26T20:43:07Z",
       "updated_at": "2026-04-26T20:43:07Z",
       "browser_download_url": "https://github.com/homeport/dyff/releases/download/v1.12.0/dyff_1.12.0_linux_arm64.tar.gz"
