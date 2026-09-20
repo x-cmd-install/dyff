@@ -4,7 +4,7 @@
 
 /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 
-![dyff](https://repo.x-cmd.io/dyff.svg)
+[![x-cmd/install — dyff Code Quality Monitoring Repo Card](https://repo.x-cmd.io/dyff.svg)](https://x-cmd.com/install/dyff)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,882 · **Forks**: 100 · **Open issues**: 132 · **Contributors**: 31
+- **Stars**: 1,882 · **Forks**: 101 · **Open issues**: 132 · **Contributors**: 31
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 444 · **Open PRs**: 15 · **Closed issues**: 77 · **Open issues**: 55 · **Commits**: 1077
+- **Releases**: 86 · **Merged PRs**: 444 · **Open PRs**: 16 · **Closed issues**: 77 · **Open issues**: 55 · **Commits**: 1077
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 9 | 1 | 0 | 0 | 9 |
-| last60d | 2026-07-20 | 0 | 18 | 1 | 0 | 0 | 18 |
-| 90d | 2026-06-20 | 0 | 33 | 2 | 0 | 2 | 33 |
-| last180d | 2026-03-22 | 2 | 73 | 5 | 2 | 3 | 73 |
-| 360d | 2025-09-23 | 9 | 119 | 6 | 4 | 4 | 120 |
-| last720d | 2024-09-28 | 15 | 211 | 13 | 10 | 15 | 420 |
+| 30d | 2026-08-21 | 0 | 9 | 2 | 0 | 0 | 9 |
+| last60d | 2026-07-22 | 0 | 18 | 2 | 0 | 0 | 16 |
+| 90d | 2026-06-22 | 0 | 31 | 3 | 0 | 2 | 29 |
+| last180d | 2026-03-24 | 2 | 73 | 6 | 2 | 3 | 70 |
+| 360d | 2025-09-25 | 9 | 119 | 7 | 4 | 4 | 120 |
+| last720d | 2024-09-30 | 15 | 211 | 14 | 10 | 15 | 420 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for dyff lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:43:23Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:47:32Z._
