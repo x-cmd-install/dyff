@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.12.0` (2026-04-26)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-21
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 1,882 · **Forks**: 101 · **Open issues**: 132 · **Contributors**: 31
+- **Stars**: 1,883 · **Forks**: 101 · **Open issues**: 132 · **Contributors**: 31
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 444 · **Open PRs**: 16 · **Closed issues**: 77 · **Open issues**: 55 · **Commits**: 1077
+- **Releases**: 86 · **Merged PRs**: 446 · **Open PRs**: 16 · **Closed issues**: 77 · **Open issues**: 55 · **Commits**: 1081
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 9 | 2 | 0 | 0 | 9 |
-| last60d | 2026-07-23 | 0 | 17 | 2 | 0 | 0 | 16 |
-| 90d | 2026-06-23 | 0 | 31 | 3 | 0 | 2 | 29 |
-| last180d | 2026-03-25 | 2 | 73 | 6 | 2 | 3 | 70 |
-| 360d | 2025-09-26 | 9 | 119 | 7 | 4 | 4 | 120 |
-| last720d | 2024-10-01 | 15 | 211 | 14 | 10 | 15 | 420 |
+| 30d | 2026-08-23 | 0 | 11 | 2 | 0 | 0 | 11 |
+| last60d | 2026-07-24 | 0 | 19 | 2 | 0 | 0 | 18 |
+| 90d | 2026-06-24 | 0 | 32 | 3 | 0 | 2 | 31 |
+| last180d | 2026-03-26 | 2 | 75 | 6 | 2 | 3 | 72 |
+| 360d | 2025-09-27 | 9 | 121 | 7 | 4 | 4 | 122 |
+| last720d | 2024-10-02 | 15 | 213 | 14 | 10 | 15 | 424 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for dyff lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:53:30Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:54:05Z._
