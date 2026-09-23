@@ -4,7 +4,7 @@
 
 /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 
-[![x-cmd/install — dyff Code Quality Monitoring Repo Card](https://repo.x-cmd.io/dyff.svg?lang=zh)](https://x-cmd.com/install/dyff)
+[![x-cmd/install — dyff Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/dyff.svg?lang=zh)](https://x-cmd.com/install/dyff)
 
 ## 安装
 
@@ -30,7 +30,7 @@ x install dyff
 
 评分最低的几项:
 
-- **Code-Review** (-1/10) — Found no human activity in the last 15 changesets
+- **Code-Review** (-1/10) — Found no human activity in the last 16 changesets
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (1/10) — dependency not pinned by hash detected -- score normalized to 1
 
@@ -47,7 +47,7 @@ x install dyff
 
 ## 流行度
 
-- **Star**: 1,883 · **Fork**: 101 · **开放 issue**: 132 · **贡献者**: 31
+- **Star**: 1,885 · **Fork**: 101 · **开放 issue**: 132 · **贡献者**: 31
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install dyff
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 11 | 2 | 0 | 0 | 11 |
-| last60d | 2026-07-24 | 0 | 19 | 2 | 0 | 0 | 18 |
-| 90d | 2026-06-24 | 0 | 32 | 3 | 0 | 2 | 31 |
-| last180d | 2026-03-26 | 2 | 75 | 6 | 2 | 3 | 72 |
-| 360d | 2025-09-27 | 9 | 121 | 7 | 4 | 4 | 122 |
-| last720d | 2024-10-02 | 15 | 213 | 14 | 10 | 15 | 424 |
+| 30d | 2026-08-24 | 0 | 11 | 2 | 0 | 0 | 11 |
+| last60d | 2026-07-25 | 0 | 19 | 2 | 0 | 0 | 18 |
+| 90d | 2026-06-25 | 0 | 31 | 3 | 0 | 2 | 31 |
+| last180d | 2026-03-27 | 2 | 75 | 6 | 2 | 3 | 72 |
+| 360d | 2025-09-28 | 9 | 121 | 7 | 4 | 4 | 122 |
+| last720d | 2024-10-03 | 14 | 213 | 14 | 9 | 15 | 424 |
 
 ## Release 资产
 
@@ -85,4 +85,4 @@ dyff 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:54:06Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:48:17Z._
