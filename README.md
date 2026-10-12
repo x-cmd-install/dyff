@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,889 · **Forks**: 101 · **Open issues**: 132 · **Contributors**: 31
+- **Stars**: 1,890 · **Forks**: 101 · **Open issues**: 132 · **Contributors**: 31
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 8 | 1 | 0 | 0 | 6 |
-| last60d | 2026-08-12 | 0 | 21 | 2 | 0 | 0 | 15 |
-| 90d | 2026-07-13 | 0 | 27 | 2 | 0 | 1 | 26 |
-| last180d | 2026-04-14 | 2 | 69 | 6 | 2 | 3 | 68 |
-| 360d | 2025-10-16 | 9 | 124 | 7 | 4 | 4 | 124 |
-| last720d | 2024-10-21 | 14 | 217 | 14 | 9 | 14 | 432 |
+| 30d | 2026-09-12 | 0 | 8 | 1 | 0 | 0 | 6 |
+| last60d | 2026-08-13 | 0 | 20 | 2 | 0 | 0 | 15 |
+| 90d | 2026-07-14 | 0 | 27 | 2 | 0 | 1 | 26 |
+| last180d | 2026-04-15 | 2 | 69 | 6 | 2 | 3 | 68 |
+| 360d | 2025-10-17 | 9 | 124 | 7 | 4 | 4 | 124 |
+| last720d | 2024-10-22 | 14 | 217 | 14 | 9 | 14 | 432 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for dyff lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:20:41Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:41:43Z._
