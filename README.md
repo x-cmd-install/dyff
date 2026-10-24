@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 9 | 1 | 0 | 0 | 9 |
-| last60d | 2026-08-24 | 0 | 20 | 3 | 0 | 0 | 20 |
-| 90d | 2026-07-25 | 0 | 28 | 3 | 0 | 0 | 28 |
-| last180d | 2026-04-26 | 1 | 71 | 7 | 1 | 3 | 69 |
-| 360d | 2025-10-28 | 9 | 127 | 8 | 4 | 3 | 128 |
-| last720d | 2024-11-02 | 14 | 220 | 15 | 9 | 14 | 442 |
+| 30d | 2026-09-24 | 0 | 9 | 1 | 0 | 0 | 9 |
+| last60d | 2026-08-25 | 0 | 20 | 3 | 0 | 0 | 20 |
+| 90d | 2026-07-26 | 0 | 28 | 3 | 0 | 0 | 28 |
+| last180d | 2026-04-27 | 0 | 69 | 6 | 1 | 3 | 69 |
+| 360d | 2025-10-29 | 9 | 127 | 8 | 4 | 3 | 128 |
+| last720d | 2024-11-03 | 14 | 220 | 15 | 9 | 14 | 442 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for dyff lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:25:21Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:14:27Z._
