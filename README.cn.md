@@ -30,7 +30,7 @@ x install dyff
 
 评分最低的几项:
 
-- **Code-Review** (-1/10) — Found no human activity in the last 15 changesets
+- **Code-Review** (-1/10) — Found no human activity in the last 16 changesets
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (1/10) — dependency not pinned by hash detected -- score normalized to 1
 
@@ -47,22 +47,22 @@ x install dyff
 
 ## 流行度
 
-- **Star**: 1,902 · **Fork**: 103 · **开放 issue**: 132 · **贡献者**: 31
+- **Star**: 1,905 · **Fork**: 103 · **开放 issue**: 132 · **贡献者**: 31
 
 ## 累计统计
 
-- **发布数**: 86 · **已合并 PR**: 458 · **开放 PR**: 17 · **已关闭 issue**: 77 · **开放 issue**: 55 · **提交数**: 1105
+- **发布数**: 86 · **已合并 PR**: 458 · **开放 PR**: 18 · **已关闭 issue**: 77 · **开放 issue**: 55 · **提交数**: 1105
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 11 | 1 | 0 | 0 | 11 |
-| last60d | 2026-09-04 | 0 | 22 | 3 | 0 | 0 | 19 |
-| 90d | 2026-08-05 | 0 | 29 | 3 | 0 | 0 | 29 |
-| last180d | 2026-05-07 | 0 | 68 | 6 | 1 | 3 | 64 |
-| 360d | 2025-11-08 | 9 | 130 | 8 | 4 | 3 | 130 |
-| last720d | 2024-11-13 | 13 | 223 | 15 | 9 | 14 | 448 |
+| 30d | 2026-10-05 | 0 | 10 | 2 | 0 | 0 | 11 |
+| last60d | 2026-09-05 | 0 | 22 | 4 | 0 | 0 | 19 |
+| 90d | 2026-08-06 | 0 | 29 | 4 | 0 | 0 | 29 |
+| last180d | 2026-05-08 | 0 | 64 | 7 | 1 | 3 | 64 |
+| 360d | 2025-11-09 | 9 | 130 | 9 | 4 | 3 | 130 |
+| last720d | 2024-11-14 | 13 | 223 | 16 | 9 | 14 | 448 |
 
 ## Release 资产
 
@@ -95,4 +95,4 @@ dyff 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261103.yml` · 2026-11-03T07:33:56Z._
+_数据快照: `data/card/261104.yml` · 2026-11-04T07:04:50Z._
