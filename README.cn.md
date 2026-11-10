@@ -26,11 +26,11 @@ x install dyff
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.4 / 10**
+总评分: **5.3 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (-1/10) — Found no human activity in the last 16 changesets
+- **Code-Review** (-1/10) — Found no human activity in the last 15 changesets
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (1/10) — dependency not pinned by hash detected -- score normalized to 1
 
@@ -42,7 +42,7 @@ x install dyff
 ## 发布
 
 - **最新版本**: `v1.12.0` (2026-04-26)
-- **最近提交**: 2026-11-06
+- **最近提交**: 2026-11-09
 - **Release 含资产**: 7 个
 
 ## 流行度
@@ -51,18 +51,18 @@ x install dyff
 
 ## 累计统计
 
-- **发布数**: 86 · **已合并 PR**: 462 · **开放 PR**: 18 · **已关闭 issue**: 77 · **开放 issue**: 55 · **提交数**: 1113
+- **发布数**: 86 · **已合并 PR**: 463 · **开放 PR**: 18 · **已关闭 issue**: 77 · **开放 issue**: 55 · **提交数**: 1115
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 12 | 2 | 0 | 0 | 7 |
-| last60d | 2026-09-10 | 0 | 23 | 3 | 0 | 0 | 18 |
-| 90d | 2026-08-11 | 0 | 33 | 4 | 0 | 0 | 30 |
-| last180d | 2026-05-13 | 0 | 66 | 7 | 1 | 3 | 66 |
-| 360d | 2025-11-14 | 9 | 133 | 9 | 4 | 3 | 134 |
-| last720d | 2024-11-19 | 13 | 226 | 16 | 9 | 14 | 454 |
+| 30d | 2026-10-11 | 0 | 13 | 2 | 0 | 0 | 8 |
+| last60d | 2026-09-11 | 0 | 21 | 3 | 0 | 0 | 19 |
+| 90d | 2026-08-12 | 0 | 34 | 4 | 0 | 0 | 31 |
+| last180d | 2026-05-14 | 0 | 67 | 7 | 1 | 3 | 67 |
+| 360d | 2025-11-15 | 9 | 134 | 9 | 4 | 3 | 135 |
+| last720d | 2024-11-20 | 13 | 227 | 16 | 9 | 14 | 456 |
 
 ## Release 资产
 
@@ -95,4 +95,4 @@ dyff 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261109.yml` · 2026-11-09T07:12:58Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T08:08:14Z._

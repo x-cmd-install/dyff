@@ -26,11 +26,11 @@ Total: **11,345** lines of code across **102** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.4 / 10**
+Overall score: **5.3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (-1/10) — Found no human activity in the last 16 changesets
+- **Code-Review** (-1/10) — Found no human activity in the last 15 changesets
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (1/10) — dependency not pinned by hash detected -- score normalized to 1
 
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.12.0` (2026-04-26)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-09
 - **Assets in release**: 7
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 462 · **Open PRs**: 18 · **Closed issues**: 77 · **Open issues**: 55 · **Commits**: 1113
+- **Releases**: 86 · **Merged PRs**: 463 · **Open PRs**: 18 · **Closed issues**: 77 · **Open issues**: 55 · **Commits**: 1115
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 12 | 2 | 0 | 0 | 7 |
-| last60d | 2026-09-10 | 0 | 23 | 3 | 0 | 0 | 18 |
-| 90d | 2026-08-11 | 0 | 33 | 4 | 0 | 0 | 30 |
-| last180d | 2026-05-13 | 0 | 66 | 7 | 1 | 3 | 66 |
-| 360d | 2025-11-14 | 9 | 133 | 9 | 4 | 3 | 134 |
-| last720d | 2024-11-19 | 13 | 226 | 16 | 9 | 14 | 454 |
+| 30d | 2026-10-11 | 0 | 13 | 2 | 0 | 0 | 8 |
+| last60d | 2026-09-11 | 0 | 21 | 3 | 0 | 0 | 19 |
+| 90d | 2026-08-12 | 0 | 34 | 4 | 0 | 0 | 31 |
+| last180d | 2026-05-14 | 0 | 67 | 7 | 1 | 3 | 67 |
+| 360d | 2025-11-15 | 9 | 134 | 9 | 4 | 3 | 135 |
+| last720d | 2024-11-20 | 13 | 227 | 16 | 9 | 14 | 456 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for dyff lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T07:12:57Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:08:14Z._
