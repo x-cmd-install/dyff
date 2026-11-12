@@ -28,7 +28,7 @@
   binname: dyff
   visiblename: textproc/dyff
   version: 1.12.0
-  origversion: 1.12.0_8
+  origversion: 1.12.0_9
   status: newest
   summary: Diff tool for YAML files, and sometimes JSON
   maintainers:
