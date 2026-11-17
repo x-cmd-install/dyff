@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,907 · **Forks**: 103 · **Open issues**: 132 · **Contributors**: 31
+- **Stars**: 1,908 · **Forks**: 104 · **Open issues**: 132 · **Contributors**: 31
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 467 · **Open PRs**: 18 · **Closed issues**: 77 · **Open issues**: 55 · **Commits**: 1123
+- **Releases**: 86 · **Merged PRs**: 467 · **Open PRs**: 19 · **Closed issues**: 77 · **Open issues**: 55 · **Commits**: 1123
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 12 | 2 | 0 | 0 | 12 |
-| last60d | 2026-09-17 | 0 | 23 | 3 | 0 | 0 | 21 |
-| 90d | 2026-08-18 | 0 | 32 | 4 | 0 | 0 | 32 |
-| last180d | 2026-05-20 | 0 | 69 | 6 | 1 | 3 | 67 |
-| 360d | 2025-11-21 | 9 | 138 | 9 | 4 | 3 | 138 |
-| last720d | 2024-11-26 | 13 | 230 | 16 | 9 | 14 | 464 |
+| 30d | 2026-10-18 | 0 | 12 | 3 | 0 | 0 | 12 |
+| last60d | 2026-09-18 | 0 | 23 | 3 | 0 | 0 | 21 |
+| 90d | 2026-08-19 | 0 | 32 | 5 | 0 | 0 | 32 |
+| last180d | 2026-05-21 | 0 | 69 | 7 | 1 | 3 | 67 |
+| 360d | 2025-11-22 | 9 | 138 | 10 | 4 | 3 | 138 |
+| last720d | 2024-11-27 | 13 | 230 | 17 | 9 | 14 | 464 |
 
 ## Release assets
 
@@ -76,16 +76,6 @@ Lowest-scoring checks:
 | [dyff_1.12.0_windows_amd64.tar.gz](https://github.com/homeport/dyff/releases/download/v1.12.0/dyff_1.12.0_windows_amd64.tar.gz) | 4.0 MiB | `native/win/x64` |
 | [dyff_1.12.0_windows_arm64.tar.gz](https://github.com/homeport/dyff/releases/download/v1.12.0/dyff_1.12.0_windows_arm64.tar.gz) | 3.6 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **16** distros on [repology.org](https://repology.org/project/dyff). **11** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.12.0` | ✅ latest |
-| Nix unstable | `1.12.0` | ✅ latest |
-| openSUSE Tumbleweed | `1.12.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for dyff lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dyff` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -95,4 +85,4 @@ Install metadata for dyff lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:39:03Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:28:58Z._
