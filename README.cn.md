@@ -47,7 +47,7 @@ x install dyff
 
 ## 流行度
 
-- **Star**: 1,908 · **Fork**: 104 · **开放 issue**: 132 · **贡献者**: 31
+- **Star**: 1,908 · **Fork**: 103 · **开放 issue**: 132 · **贡献者**: 31
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install dyff
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 12 | 3 | 0 | 0 | 12 |
-| last60d | 2026-09-18 | 0 | 23 | 3 | 0 | 0 | 21 |
-| 90d | 2026-08-19 | 0 | 32 | 5 | 0 | 0 | 32 |
-| last180d | 2026-05-21 | 0 | 69 | 7 | 1 | 3 | 67 |
-| 360d | 2025-11-22 | 9 | 138 | 10 | 4 | 3 | 138 |
-| last720d | 2024-11-27 | 13 | 230 | 17 | 9 | 14 | 464 |
+| 30d | 2026-10-20 | 0 | 12 | 3 | 0 | 0 | 12 |
+| last60d | 2026-09-20 | 0 | 23 | 3 | 0 | 0 | 21 |
+| 90d | 2026-08-21 | 0 | 32 | 5 | 0 | 0 | 32 |
+| last180d | 2026-05-23 | 0 | 67 | 7 | 1 | 3 | 67 |
+| 360d | 2025-11-24 | 9 | 137 | 10 | 4 | 3 | 138 |
+| last720d | 2024-11-29 | 13 | 230 | 17 | 9 | 14 | 464 |
 
 ## Release 资产
 
@@ -76,6 +76,16 @@ x install dyff
 | [dyff_1.12.0_windows_amd64.tar.gz](https://github.com/homeport/dyff/releases/download/v1.12.0/dyff_1.12.0_windows_amd64.tar.gz) | 4.0 MiB | `native/win/x64` |
 | [dyff_1.12.0_windows_arm64.tar.gz](https://github.com/homeport/dyff/releases/download/v1.12.0/dyff_1.12.0_windows_arm64.tar.gz) | 3.6 MiB | `native/win/arm64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/dyff) 上共有 **16** 个发行版报告此项目。**11** 个 ✅ 已是最新上游版本，**4** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `1.12.0` | ✅ latest |
+| Nix unstable | `1.12.0` | ✅ latest |
+| openSUSE Tumbleweed | `1.12.0` | ✅ latest |
+
 ## 改进这些数据
 
 dyff 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `dyff` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -85,4 +95,4 @@ dyff 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T10:28:59Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T09:26:55Z._
